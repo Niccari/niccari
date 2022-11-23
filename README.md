@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi there!
 
-<!--
-**Niccari/niccari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Skills
+**Mainly used**
 
-Here are some ideas to get you started:
+![Commonly used skills](https://skillicons.dev/icons?i=gcp,firebase,js,ts,next,vercel,vite,redux,py,docker,androidstudio,kotlin,swift,tensorflow,vim,fastapi,githubactions,idea)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**others**
+
+![Other skills](https://skillicons.dev/icons?i=pytorch,webpack,arduino,cpp,cs,aws,azure,flutter,flask,linux,styledcomponents,vscode)
+
+## Activities
+![Niccari's github-readme-stats](https://github-readme-stats.vercel.app/api?username=niccari&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niccari&theme=tokyonight)
+
+## Contacts
+[Portal page - niccari.net](https://niccari.net)
+
+[Twitter - Niccari](https://twitter.com/niccari1)
