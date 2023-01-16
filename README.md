@@ -7,7 +7,7 @@ Hi there!
 
 **others**
 
-![Other skills](https://skillicons.dev/icons?i=pytorch,webpack,arduino,cpp,cs,aws,azure,flutter,flask,linux,styledcomponents,vscode)
+![Other skills](https://skillicons.dev/icons?i=pytorch,webpack,arduino,cpp,cs,aws,azure,flutter,flask,linux,styledcomponents,vscode,rust)
 
 ## Activities
 ![Niccari's github-readme-stats](https://github-readme-stats.vercel.app/api?username=niccari&theme=tokyonight)
