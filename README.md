@@ -10,9 +10,9 @@ Hi there!
 ![Other skills](https://skillicons.dev/icons?i=pytorch,webpack,arduino,cpp,cs,aws,azure,flutter,flask,linux,styledcomponents,vscode,rust)
 
 ## Activities
-![Niccari's github-readme-stats](github-readme-stats-niccari.vercel.app/api?username=niccari&theme=tokyonight)
+![Niccari's github-readme-stats](https://github-readme-stats-niccari.vercel.app/api?username=niccari&theme=tokyonight)
 
-![Top Langs](github-readme-stats-niccari.vercel.app/api/top-langs/?username=niccari&theme=tokyonight)
+![Top Langs](https://github-readme-stats-niccari.vercel.app/api/top-langs/?username=niccari&theme=tokyonight)
 
 ## Contacts
 [Portal page - niccari.net](https://niccari.net)
