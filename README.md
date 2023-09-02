@@ -3,15 +3,13 @@ Hi there!
 ## 🌱 Skills
 **Mainly used**
 
-![Commonly used skills](https://skillicons.dev/icons?i=gcp,firebase,js,ts,next,vercel,vite,redux,py,docker,androidstudio,swift,vim,fastapi,githubactions,idea)
+![Commonly used skills](https://skillicons.dev/icons?i=gcp,firebase,ts,next,vercel,vite,redux,py,fastapi,docker,androidstudio,swift,vim,githubactions,idea)
 
 **others**
 
 ![Other skills](https://skillicons.dev/icons?i=pytorch,tensorflow,kotlin,webpack,arduino,cpp,cs,aws,azure,flutter,flask,linux,styledcomponents,vscode,rust)
 
 ## Activities
-![Niccari's github-readme-stats](https://github-readme-stats-niccari.vercel.app/api?username=niccari&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats-niccari.vercel.app/api/top-langs/?username=niccari&theme=tokyonight)
 
 ## Contacts
