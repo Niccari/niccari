@@ -10,7 +10,7 @@ Hi there!
 ![Other skills](https://skillicons.dev/icons?i=tensorflow,kotlin,webpack,arduino,cpp,cs,aws,azure,flutter,next,vercel,flask,linux,styledcomponents,vscode,rust)
 
 ## Activities
-![Top Langs](github-readme-stats-six-beta-84.vercel.app/api/top-langs/?username=niccari&theme=tokyonight)
+![Top Langs](https://github-readme-stats-six-beta-84.vercel.app/api/top-langs/?username=niccari&theme=tokyonight)
 
 ## Contacts
 [Portal page - niccari.net](https://niccari.net)
