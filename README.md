@@ -3,11 +3,13 @@ Hi there!
 ## 🌱 Skills
 **Mainly used**
 
-![Commonly used skills](https://skillicons.dev/icons?i=gcp,firebase,ts,mui,vite,redux,py,fastapi,pytorch,swift,docker,vim,githubactions,idea)
+![Commonly used skills](https://skillicons.dev/icons?i=gcp,firebase,ts,mui,vite,react,py,fastapi,pytorch,swift,vim,githubactions,idea,opencv)
+
+and uses Cursor, GitHub Copilot and Cline.
 
 **others**
 
-![Other skills](https://skillicons.dev/icons?i=tensorflow,kotlin,webpack,arduino,cpp,cs,aws,azure,flutter,next,vercel,flask,linux,styledcomponents,vscode,rust)
+![Other skills](https://skillicons.dev/icons?i=raspberrypi,docker,kotlin,webpack,arduino,cpp,cs,aws,azure,flutter,next,vercel,linux,styledcomponents,vscode,go)
 
 ## Activities
 ![Top Langs](https://github-readme-stats-six-beta-84.vercel.app/api/top-langs/?username=niccari&theme=tokyonight)
