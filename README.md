@@ -9,7 +9,7 @@ and uses Cursor, GitHub Copilot and Cline.
 
 **others**
 
-![Other skills](https://skillicons.dev/icons?i=raspberrypi,docker,kotlin,webpack,cpp,aws,azure,next,vercel,ubuntu,emotion,vscode,go)
+![Other skills](https://skillicons.dev/icons?i=raspberrypi,docker,kotlin,webpack,cpp,aws,azure,next,vercel,tailwind,emotion,vscode,go,mysql)
 
 ## Activities
 ![Top Langs](https://github-readme-stats-six-beta-84.vercel.app/api/top-langs/?username=niccari&theme=tokyonight)
