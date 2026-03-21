@@ -5,7 +5,7 @@ Hi there!
 
 ![Commonly used skills](https://skillicons.dev/icons?i=gcp,firebase,ts,mui,vite,react,py,fastapi,pytorch,swift,vim,githubactions,idea,opencv)
 
-and uses Cursor, GitHub Copilot and Cline.
+and uses Cursor, Claude Code.
 
 **others**
 
